@@ -15,7 +15,6 @@
 <img alt="stats" align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gimmetorkor&theme=buefy&hide_border=false" /> <br />
 
 # 📁 Project:
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 <!--
 **gimmetorkor/gimmetorkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
