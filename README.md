@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![gimmetorkor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimmetorkor&show_icons=true&theme=buefy)](https://github.com/gimmetorkor/github-readme-stats)
+<img alt="stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=gimmetorkor&show_icons=true&theme=buefy" />
+<img alt="stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimmetorkor&layout=compact" />
+
 
 <!--
 **gimmetorkor/gimmetorkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
